@@ -10,4 +10,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = { version = "0.16.5", features = ["extension-module"] }
-openfga-dsl-parser = { path = "../openfga-dsl-parser" }
+openfga-dsl-parser = "1"

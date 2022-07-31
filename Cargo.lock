@@ -56,7 +56,9 @@ checksum = "18a6dbe30758c9f83eb00cbea4ac95966305f5a7772f3f42ebfc7fc7eddbd8e1"
 
 [[package]]
 name = "openfga-dsl-parser"
-version = "0.1.0"
+version = "1.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b2ae5339972a7418fe301c334f6b0d001d94a32470b0e01675f15944bd4c979b"
 dependencies = [
  "serde_json",
 ]
