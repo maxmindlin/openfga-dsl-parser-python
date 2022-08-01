@@ -28,7 +28,7 @@ print(json)
 
 Setup Python environment & install Maturin:
 
-1. `python -m venv .nenv`
+1. `python -m venv .venv`
 2. `source .venv/bin/activate`
 3. `pip install maturin`
 
