@@ -4,6 +4,10 @@ The OpenFGA DSL Parser provides utilities for parsing DSL file string inputs int
 
 This library is meant to be a utility for services using [OpenFGA](https://openfga.dev/) for their authorization solution, but need a way to translate from their DSL to the JSON format the HTTP API expects.
 
+## Installation
+
+`pip install openfga-dsl-parser-python`
+
 ## Usage
 
 ```python
